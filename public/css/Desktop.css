@@ -36,15 +36,6 @@ height:fit-content;
 width:fit-content;
 }
 
-._14_11 {
-flex-direction:row;
-display:flex;
-gap:7.0px;
-align-items:center;
-height:fit-content;
-width:fit-content;
-}
-
 ._18_17 {
 display:flex;
 height:-webkit-fill-available;
